@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="rallymatte_logo.svg"
+   inkscape:export-filename="/home/waland/Projekt/RallyMatte/assets/rallymatte_logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : -48.500004 : 1"
+       inkscape:vp_y="0 : 999.99996 : 0"
+       inkscape:vp_z="210 : -48.500004 : 1"
+       inkscape:persp3d-origin="105 : -98.000002 : 1"
+       id="perspective2807" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.65506329"
+     inkscape:cx="-48.160565"
+     inkscape:cy="76.941113"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="785"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Lager 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.704083,-86.816619)">
+    <g
+       id="g876">
+      <g
+         id="g864"
+         transform="translate(3.1750001,0.52916663)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.352778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect835-3"
+           width="100"
+           height="100"
+           x="58.529083"
+           y="86.287453" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.40756;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect835"
+           width="96.59243"
+           height="96.592438"
+           x="60.232868"
+           y="87.991234"
+           rx="14.488865"
+           ry="14.488865" />
+      </g>
+      <g
+         id="g2930"
+         transform="translate(-1.5875)">
+        <path
+           style="fill:#ff1300;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 95.418998,129.41754 -14.017895,1.8045 5.062726,3.21993 -4.821362,4.10444 6.870541,0.22277 -9.606681,4.55549 11.521632,-0.89314 -13.875637,6.16835 15.868378,0.18424"
+           id="path2877"
+           sodipodi:nodetypes="ccccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96.3393px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ff1300;fill-opacity:1;stroke:none;stroke-width:2.40848"
+           x="79.844772"
+           y="173.51537"
+           id="text2775-0"><tspan
+             sodipodi:role="line"
+             id="tspan2773-3"
+             x="79.844772"
+             y="173.51537"
+             style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96.3393px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff1300;fill-opacity:1;stroke-width:2.40848">R</tspan></text>
+        <path
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.197089px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 98.899923,130.51207 -14.2336,1.50997 6.661726,1.92812 -6.752209,3.52592 8.735837,0.43193 -9.02102,3.97876 10.278998,-0.65759 -12.460279,6.28206 15.4236,-1.22742"
+           id="path2877-7"
+           sodipodi:nodetypes="ccccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96.3394px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.40848"
+           x="83.003563"
+           y="173.5154"
+           id="text2775"><tspan
+             sodipodi:role="line"
+             id="tspan2773"
+             x="83.003563"
+             y="173.5154"
+             style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96.3394px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.40848">R</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
